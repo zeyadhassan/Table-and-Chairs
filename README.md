@@ -1,4 +1,4 @@
-# ProceduralMeshProject
+# Table and Chairs Procedural Mesh
 Resizable table with chairs developed using procedural meshes, with Unreal Engine 4.
 
 ### Cursor Movement:
